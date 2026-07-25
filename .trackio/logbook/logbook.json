@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "title": "Reproduction: Respecting Modality Gap in Post-hoc OOD Detection with Pre-trained VLMs",
+  "emoji": "🎯",
+  "space_id": "divaspoudel/repro-modality-gap-ood-detection",
+  "paper": null,
+  "tags": [
+    "icml2026-repro",
+    "paper-AUWo5h4U38"
+  ],
+  "updated_at": "2026-07-25T05:53:07+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Reproduction: Respecting Modality Gap in Post-hoc OOD Detection with Pre-trained VLMs",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "executive-summary",
+        "title": "Executive summary",
+        "file": "pages/executive-summary/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-non-vanishing-lower-bound-on-modality-gap-theorem-2",
+        "title": "Claim 1: Non-vanishing lower bound on modality gap (Theorem 2)",
+        "file": "pages/claim-1-non-vanishing-lower-bound-on-modality-gap-theorem-2/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-optimal-visual-prototype-lies-in-visual-subspace-s-theorem-1",
+        "title": "Claim 2: Optimal visual prototype lies in visual subspace S (Theorem 1)",
+        "file": "pages/claim-2-optimal-visual-prototype-lies-in-visual-subspace-s-theorem-1/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3-online-pseudo-supervised-framework-with-step-size-eta-rho-sqrt-i-algorithm-1",
+        "title": "Claim 3: Online pseudo-supervised framework with step size eta=rho/sqrt(i) (Algorithm 1)",
+        "file": "pages/claim-3-online-pseudo-supervised-framework-with-step-size-eta-rho-sqrt-i-algorithm-1/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-4-o-sqrt-n-cumulative-regret-bound-theorem-3",
+        "title": "Claim 4: O(sqrt(N)) cumulative regret bound (Theorem 3)",
+        "file": "pages/claim-4-o-sqrt-n-cumulative-regret-bound-theorem-3/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-5-imagenet-1k-ood-detection-results-table-1",
+        "title": "Claim 5: ImageNet-1K OOD detection results (Table 1)",
+        "file": "pages/claim-5-imagenet-1k-ood-detection-results-table-1/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "traces": [],
+  "workspace": {
+    "file": "workspace.json",
+    "file_count": 0,
+    "total_size": 0,
+    "bucket_id": "divaspoudel/repro-modality-gap-ood-detection-artifacts"
+  },
+  "agent_view_tokens": 4960,
+  "trace_view_tokens": 10,
+  "workspace_view_tokens": 8,
+  "revision": "735653eefafb67b83c5d"
+}
