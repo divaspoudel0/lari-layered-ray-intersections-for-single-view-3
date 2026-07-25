@@ -1,0 +1,19 @@
+{
+  "space_id": "divaspoudel/repro-modality-gap-ood-detection",
+  "emoji": "🎯",
+  "created_at": "2026-07-25T04:28:41+00:00",
+  "last_page": "executive-summary",
+  "tags": [
+    "icml2026-repro",
+    "paper-AUWo5h4U38"
+  ],
+  "private": false,
+  "repos_public": false,
+  "embed_content": false,
+  "trace_dataset": "divaspoudel/repro-modality-gap-ood-detection-traces",
+  "artifacts_bucket": "divaspoudel/repro-modality-gap-ood-detection-artifacts",
+  "workspace_bucket": "divaspoudel/repro-modality-gap-ood-detection-artifacts",
+  "trace_publication": "private",
+  "workspace_publication": "private",
+  "local_dashboards": {}
+}
